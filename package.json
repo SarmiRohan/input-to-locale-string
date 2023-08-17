@@ -1,0 +1,23 @@
+{
+  "name": "separate-user-input-by-thousands",
+  "version": "1.0.0",
+  "description": "A simple function to separate user input with thousands separators.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SarmiRohan/separate-user-input-by-thousands.git"
+  },
+  "keywords": [
+    "localeString",
+    "thousands separated"
+  ],
+  "author": "SarmiRohan",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  }
+}
