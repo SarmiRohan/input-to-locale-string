@@ -1,6 +1,6 @@
 {
   "name": "separate-user-input-by-thousands",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A simple function to separate user input with thousands separators.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
